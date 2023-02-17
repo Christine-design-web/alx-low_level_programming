@@ -1,6 +1,6 @@
 #include <unistd.h>
 /**
- * main - A program printing a unix simple operating system
+ * main - A c program that prints a line tomthe standard error
  * return:1 (success)
  */
 int main(void)
