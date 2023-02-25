@@ -10,7 +10,7 @@ int main(void)
 	int largest;
 
 	a = 972;
-	b = -98;
+	b = 972;
 	c = 0;
 	largest = largest_number(a, b, c);
 	printf("%d is the largest number\n", largest);
