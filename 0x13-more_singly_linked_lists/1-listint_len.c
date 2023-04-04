@@ -13,5 +13,5 @@ while (h != NULL)
 len++;
 h = h->next;
 }
-return len;
+return{len;
 }
